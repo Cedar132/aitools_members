@@ -1,7 +1,7 @@
 # aitools_members
 AI Tools Member Application
 
-# aitools_admin
+# aitools_Members
 AiKloud Admin Application
 
 The Admin (Adama) Application helps to approve Ai Tools Submission.
