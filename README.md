@@ -42,8 +42,8 @@ To create Tokens for Password for Git Clone
 10. Install the Application requirements
 `pip install -r requirements.txt`
 
-11. Run your Application
-  python application.py
+11. Run your Application     
+     python application.py
 
 
 Remember to update the application.py to 8090
